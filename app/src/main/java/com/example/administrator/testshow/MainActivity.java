@@ -162,6 +162,7 @@ public class MainActivity extends AppCompatActivity implements GetVideodataListe
 
     }
 
+    //第一次做版本更新设置
         //下载新版本
     public void downloadFileData(String url) {
         //String url, String target,boolean autoResume, boolean autoRename, RequestCallBack<File> callback
